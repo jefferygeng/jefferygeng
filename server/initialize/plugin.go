@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	email "github.com/flipped-aurora/gva-plugins/email" // 在线仓库模式go
 	"github.com/jefferygeng/yj/server/global"
+	email "github.com/jefferygeng/zn-plugins/email" // 在线仓库模式go
 
 	//"github.com/jefferygeng/yj/server/plugin/email" // 本地插件仓库地址模式
 	"github.com/gin-gonic/gin"

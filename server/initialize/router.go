@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/jefferygeng/gin-swagger"
+	ginSwagger "github.com/jefferygeng/gin-swagger"
 	"github.com/jefferygeng/gin-swagger/swaggerFiles"
 	_ "github.com/jefferygeng/yj/server/docs"
 	"github.com/jefferygeng/yj/server/global"

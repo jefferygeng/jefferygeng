@@ -8,12 +8,12 @@ require (
 	github.com/alibabacloud-go/tea v1.1.17
 	github.com/alibabacloud-go/tea-utils v1.4.1
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.6+incompatible
-	github.com/casbin/casbin/v2 v2.37.4
-	github.com/casbin/gorm-adapter/v3 v3.4.6
+	github.com/casbin/casbin/v2 v2.11.0
+	github.com/casbin/gorm-adapter/v3 v3.0.2
 	github.com/cosmtrek/air v1.27.8 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v1.13.0 // indirect
-	github.com/flipped-aurora/gva-plugins v0.0.0-20210828060501-fc8b729b9a4a
+	github.com/jefferygeng/zn-plugins v1.0.0
 	github.com/flipped-aurora/ws v1.0.2
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/fvbock/endless v0.0.0-20170109170031-447134032cb6
