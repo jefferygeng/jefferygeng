@@ -1,0 +1,61 @@
+[Server]2021/11/24 - 10:53:14.294	[34minfo[0m	register table success
+[Server]2021/11/24 - 10:53:14.305	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 10:53:14.306	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 10:53:14.306	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 10:53:14.318	[34minfo[0m	router register success
+[Server]2021/11/24 - 10:53:14.331	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 10:56:18.937	[34minfo[0m	register table success
+[Server]2021/11/24 - 10:56:18.940	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 10:56:18.940	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 10:56:18.951	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 10:56:18.965	[34minfo[0m	router register success
+[Server]2021/11/24 - 10:56:18.982	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 11:27:59.897	[34minfo[0m	register table success
+[Server]2021/11/24 - 11:27:59.898	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 11:27:59.899	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 11:27:59.899	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 11:27:59.913	[34minfo[0m	router register success
+[Server]2021/11/24 - 11:27:59.919	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 11:35:49.418	[31merror[0m	LOG!	{"err": "{\"body\":{\"BizId\":\"143816437724948501^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"D73F65A6-AD7C-50B1-BC94-052192F45C6F\"},\"headers\":{\"access-control-allow-headers\":\"X-Requested-With, X-Sequence, _aop_secret, _aop_signature, x-acs-action, x-acs-version, x-acs-date, Content-Type\",\"access-control-allow-methods\":\"POST, GET, OPTIONS, PUT, DELETE\",\"access-control-allow-origin\":\"*\",\"access-control-max-age\":\"172800\",\"connection\":\"keep-alive\",\"content-length\":\"110\",\"content-type\":\"application/json;charset=utf-8\",\"date\":\"Wed, 24 Nov 2021 03:35:48 GMT\",\"x-acs-request-id\":\"D73F65A6-AD7C-50B1-BC94-052192F45C6F\",\"x-acs-trace-id\":\"60d78b07e788ec6fd57bf5f46228c1af\"}}"}
+[Server]2021/11/24 - 12:08:09.385	[34minfo[0m	register table success
+[Server]2021/11/24 - 12:08:09.390	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 12:08:09.390	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 12:08:09.390	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 12:08:09.405	[34minfo[0m	router register success
+[Server]2021/11/24 - 12:08:09.407	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 12:11:25.034	[34minfo[0m	SUCCESS	{"info": "{\"body\":{\"BizId\":\"102518037727084212^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"27D8AF00-D4F6-5D43-93A8-695C04A3DAA9\"},\"headers\":{\"access-control-allow-headers\":\"X-Requested-With, X-Sequence, _aop_secret, _aop_signature, x-acs-action, x-acs-version, x-acs-date, Content-Type\",\"access-control-allow-methods\":\"POST, GET, OPTIONS, PUT, DELETE\",\"access-control-allow-origin\":\"*\",\"access-control-max-age\":\"172800\",\"connection\":\"keep-alive\",\"content-length\":\"110\",\"content-type\":\"application/json;charset=utf-8\",\"date\":\"Wed, 24 Nov 2021 04:11:24 GMT\",\"x-acs-request-id\":\"27D8AF00-D4F6-5D43-93A8-695C04A3DAA9\",\"x-acs-trace-id\":\"c1b1c7e7fa0bac87c7063ea6627aa653\"}}"}
+[Server]2021/11/24 - 12:12:44.391	[34minfo[0m	register table success
+[Server]2021/11/24 - 12:12:44.392	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 12:12:44.392	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 12:12:44.393	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 12:12:44.415	[34minfo[0m	router register success
+[Server]2021/11/24 - 12:12:44.428	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 12:42:08.371	[34minfo[0m	SUCCESS	{"info": "{\"BizId\":\"921013937728927521^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"67D16F17-8775-5058-9EE4-98242E31521F\"}"}
+[Server]2021/11/24 - 13:13:13.142	[34minfo[0m	register table success
+[Server]2021/11/24 - 13:13:13.144	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 13:13:13.144	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 13:13:13.145	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 13:13:13.156	[34minfo[0m	router register success
+[Server]2021/11/24 - 13:13:13.161	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 13:13:19.790	[34minfo[0m	SUCCESS	{"info": "{\"BizId\":\"402108937730798933^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"EEFFA0AF-4ACA-5484-9ECC-A0AACC15823D\"}"}
+[Server]2021/11/24 - 13:13:19.790	[34minfo[0m	SUCCESS
+[Server]2021/11/24 - 15:58:18.484	[34minfo[0m	register table success
+[Server]2021/11/24 - 15:58:18.486	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 15:58:18.486	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 15:58:18.487	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 15:58:18.499	[34minfo[0m	router register success
+[Server]2021/11/24 - 15:58:18.512	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 17:54:52.937	[34minfo[0m	register table success
+[Server]2021/11/24 - 17:54:52.939	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 17:54:52.939	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 17:54:52.940	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 17:54:52.953	[34minfo[0m	router register success
+[Server]2021/11/24 - 17:54:52.954	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 17:58:48.589	[34minfo[0m	register table success
+[Server]2021/11/24 - 17:58:48.591	[34minfo[0m	use middleware logger
+[Server]2021/11/24 - 17:58:48.592	[34minfo[0m	use middleware cors
+[Server]2021/11/24 - 17:58:48.592	[34minfo[0m	register swagger handler
+[Server]2021/11/24 - 17:58:48.606	[34minfo[0m	router register success
+[Server]2021/11/24 - 17:58:48.617	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/24 - 17:59:00.171	[31merror[0m	发送失败	{"err": ""}
+[Server]2021/11/24 - 17:59:20.937	[31merror[0m	发送失败	{"err": "0"}

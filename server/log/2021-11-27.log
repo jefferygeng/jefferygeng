@@ -1,0 +1,97 @@
+[Server]2021/11/27 - 14:18:27.124	[34minfo[0m	register table success
+[Server]2021/11/27 - 14:18:27.129	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 14:18:27.130	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 14:18:27.131	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 14:18:27.139	[34minfo[0m	router register success
+[Server]2021/11/27 - 14:18:27.155	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 14:20:55.921	[34minfo[0m	SUCCESS	{"info": "{\"BizId\":\"752609737994054314^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"98D4A8C9-762D-590A-970A-46894559C326\"}"}
+[Server]2021/11/27 - 14:23:01.604	[34minfo[0m	register table success
+[Server]2021/11/27 - 14:23:01.606	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 14:23:01.606	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 14:23:01.607	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 14:23:01.611	[34minfo[0m	router register success
+[Server]2021/11/27 - 14:23:01.611	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 14:27:07.459	[34minfo[0m	register table success
+[Server]2021/11/27 - 14:27:07.462	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 14:27:07.462	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 14:27:07.462	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 14:27:07.465	[34minfo[0m	router register success
+[Server]2021/11/27 - 14:27:07.470	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 15:36:47.408	[34minfo[0m	register table success
+[Server]2021/11/27 - 15:36:47.410	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 15:36:47.410	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 15:36:47.410	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 15:36:47.414	[34minfo[0m	router register success
+[Server]2021/11/27 - 15:36:47.416	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 15:41:45.852	[34minfo[0m	register table success
+[Server]2021/11/27 - 15:41:45.857	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 15:41:45.857	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 15:41:45.858	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 15:41:45.863	[34minfo[0m	router register success
+[Server]2021/11/27 - 15:41:45.870	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 15:48:56.868	[34minfo[0m	register table success
+[Server]2021/11/27 - 15:48:56.872	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 15:48:56.872	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 15:48:56.873	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 15:48:56.877	[34minfo[0m	router register success
+[Server]2021/11/27 - 15:48:56.893	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 15:53:38.198	[34minfo[0m	register table success
+[Server]2021/11/27 - 15:53:38.200	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 15:53:38.200	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 15:53:38.200	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 15:53:38.204	[34minfo[0m	router register success
+[Server]2021/11/27 - 15:53:38.210	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 16:07:07.096	[34minfo[0m	register table success
+[Server]2021/11/27 - 16:07:07.100	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 16:07:07.100	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 16:07:07.100	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 16:07:07.105	[34minfo[0m	router register success
+[Server]2021/11/27 - 16:07:07.114	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 16:19:53.725	[34minfo[0m	register table success
+[Server]2021/11/27 - 16:19:53.726	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 16:19:53.727	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 16:19:53.727	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 16:19:53.732	[34minfo[0m	router register success
+[Server]2021/11/27 - 16:19:53.737	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 17:38:31.866	[34minfo[0m	register table success
+[Server]2021/11/27 - 17:38:31.877	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 17:38:31.877	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 17:38:31.879	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 17:38:31.883	[34minfo[0m	router register success
+[Server]2021/11/27 - 17:38:31.892	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 18:00:31.109	[34minfo[0m	register table success
+[Server]2021/11/27 - 18:00:31.111	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 18:00:31.111	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 18:00:31.112	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 18:00:31.116	[34minfo[0m	router register success
+[Server]2021/11/27 - 18:00:31.121	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 18:03:37.640	[34minfo[0m	register table success
+[Server]2021/11/27 - 18:03:37.644	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 18:03:37.644	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 18:03:37.644	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 18:03:37.648	[34minfo[0m	router register success
+[Server]2021/11/27 - 18:03:37.656	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 18:26:04.974	[34minfo[0m	register table success
+[Server]2021/11/27 - 18:26:04.976	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 18:26:04.977	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 18:26:04.977	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 18:26:04.980	[34minfo[0m	router register success
+[Server]2021/11/27 - 18:26:04.986	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 18:36:23.608	[34minfo[0m	register table success
+[Server]2021/11/27 - 18:36:23.609	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 18:36:23.609	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 18:36:23.610	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 18:36:23.613	[34minfo[0m	router register success
+[Server]2021/11/27 - 18:36:23.620	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 19:03:26.587	[34minfo[0m	register table success
+[Server]2021/11/27 - 19:03:26.601	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 19:03:26.601	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 19:03:26.601	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 19:03:26.612	[34minfo[0m	router register success
+[Server]2021/11/27 - 19:03:26.626	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/27 - 19:07:54.679	[34minfo[0m	register table success
+[Server]2021/11/27 - 19:07:54.688	[34minfo[0m	use middleware logger
+[Server]2021/11/27 - 19:07:54.688	[34minfo[0m	use middleware cors
+[Server]2021/11/27 - 19:07:54.688	[34minfo[0m	register swagger handler
+[Server]2021/11/27 - 19:07:54.697	[34minfo[0m	router register success
+[Server]2021/11/27 - 19:07:54.702	[34minfo[0m	server run success on 	{"address": ":8888"}

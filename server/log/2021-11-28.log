@@ -1,0 +1,6 @@
+[Server]2021/11/28 - 00:06:48.527	[34minfo[0m	register table success
+[Server]2021/11/28 - 00:06:48.529	[34minfo[0m	use middleware logger
+[Server]2021/11/28 - 00:06:48.529	[34minfo[0m	use middleware cors
+[Server]2021/11/28 - 00:06:48.530	[34minfo[0m	register swagger handler
+[Server]2021/11/28 - 00:06:48.543	[34minfo[0m	router register success
+[Server]2021/11/28 - 00:06:48.556	[34minfo[0m	server run success on 	{"address": ":8888"}

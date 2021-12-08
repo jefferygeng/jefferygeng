@@ -1,0 +1,14 @@
+[Server]2021/11/26 - 18:24:32.656	[34minfo[0m	register table success
+[Server]2021/11/26 - 18:24:32.661	[34minfo[0m	use middleware logger
+[Server]2021/11/26 - 18:24:32.661	[34minfo[0m	use middleware cors
+[Server]2021/11/26 - 18:24:32.662	[34minfo[0m	register swagger handler
+[Server]2021/11/26 - 18:24:32.672	[34minfo[0m	router register success
+[Server]2021/11/26 - 18:24:32.672	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/26 - 19:23:40.599	[34minfo[0m	SUCCESS	{"info": "{\"BizId\":\"685311537925819615^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"6B4AAA4A-48F9-5D90-B326-833EA24DBDDF\"}"}
+[Server]2021/11/26 - 19:29:00.478	[34minfo[0m	register table success
+[Server]2021/11/26 - 19:29:00.481	[34minfo[0m	use middleware logger
+[Server]2021/11/26 - 19:29:00.481	[34minfo[0m	use middleware cors
+[Server]2021/11/26 - 19:29:00.481	[34minfo[0m	register swagger handler
+[Server]2021/11/26 - 19:29:00.493	[34minfo[0m	router register success
+[Server]2021/11/26 - 19:29:00.504	[34minfo[0m	server run success on 	{"address": ":8888"}
+[Server]2021/11/26 - 19:29:18.696	[34minfo[0m	SUCCESS	{"info": "{\"BizId\":\"201014137926157800^0\",\"Code\":\"OK\",\"Message\":\"OK\",\"RequestId\":\"7875C62B-B571-56AA-A3AD-B19659770E6B\"}"}
