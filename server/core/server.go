@@ -1,14 +1,12 @@
-
-
 package core
 
 import (
 	"fmt"
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/initialize"
-	"github.com/flipped-aurora/gin-vue-admin/server/service/system"
+	"github.com/jefferygeng/yj/server/global"
+	"github.com/jefferygeng/yj/server/initialize"
+	"github.com/jefferygeng/yj/server/service/system"
 	"go.uber.org/zap"
 )
 

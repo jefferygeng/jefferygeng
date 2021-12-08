@@ -1,7 +1,7 @@
 package response
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/model/system/request"
+	"github.com/jefferygeng/yj/server/model/system/request"
 )
 
 type PolicyPathResponse struct {

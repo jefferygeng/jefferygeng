@@ -1,8 +1,8 @@
 package frontend
 
 import (
-	v1 "github.com/flipped-aurora/gin-vue-admin/server/api/v1"
 	"github.com/gin-gonic/gin"
+	v1 "github.com/jefferygeng/yj/server/api/v1"
 )
 
 type SystemCfgRouter struct {

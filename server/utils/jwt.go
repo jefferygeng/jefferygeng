@@ -2,10 +2,11 @@ package utils
 
 import (
 	"errors"
-	"github.com/dgrijalva/jwt-go"
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/system/request"
 	"time"
+
+	"github.com/dgrijalva/jwt-go"
+	"github.com/jefferygeng/yj/server/global"
+	"github.com/jefferygeng/yj/server/model/system/request"
 )
 
 type JWT struct {

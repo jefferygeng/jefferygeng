@@ -4,11 +4,11 @@ import (
 	"io/ioutil"
 	"strconv"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	exampleRes "github.com/flipped-aurora/gin-vue-admin/server/model/example/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/utils"
 	"github.com/gin-gonic/gin"
+	"github.com/jefferygeng/yj/server/global"
+	"github.com/jefferygeng/yj/server/model/common/response"
+	exampleRes "github.com/jefferygeng/yj/server/model/example/response"
+	"github.com/jefferygeng/yj/server/utils"
 	"go.uber.org/zap"
 )
 

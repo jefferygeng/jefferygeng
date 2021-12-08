@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/jefferygeng/gin-vue-admin/server/core"
-	"github.com/jefferygeng/gin-vue-admin/server/global"
-	"github.com/jefferygeng/gin-vue-admin/server/initialize"
+	"github.com/jefferygeng/yj/server/core"
+	"github.com/jefferygeng/yj/server/global"
+	"github.com/jefferygeng/yj/server/initialize"
 )
 
 //go:generate go env -w GO111MODULE=on

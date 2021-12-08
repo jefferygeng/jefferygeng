@@ -1,11 +1,11 @@
 package request
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/model/autocode"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
+	"github.com/jefferygeng/yj/server/model/autocode"
+	"github.com/jefferygeng/yj/server/model/common/request"
 )
 
-type AirportSearch struct{
-    autocode.Airport
-    request.PageInfo
+type AirportSearch struct {
+	autocode.Airport
+	request.PageInfo
 }

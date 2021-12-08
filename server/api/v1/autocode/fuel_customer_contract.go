@@ -1,13 +1,13 @@
 package autocode
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/autocode"
-	autocodeReq "github.com/flipped-aurora/gin-vue-admin/server/model/autocode/request"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/service"
 	"github.com/gin-gonic/gin"
+	"github.com/jefferygeng/yj/server/global"
+	"github.com/jefferygeng/yj/server/model/autocode"
+	autocodeReq "github.com/jefferygeng/yj/server/model/autocode/request"
+	"github.com/jefferygeng/yj/server/model/common/request"
+	"github.com/jefferygeng/yj/server/model/common/response"
+	"github.com/jefferygeng/yj/server/service"
 	"go.uber.org/zap"
 )
 
@@ -15,7 +15,6 @@ type FuelCustomerContractApi struct {
 }
 
 var fuelCustomerContractService = service.ServiceGroupApp.AutoCodeServiceGroup.FuelCustomerContractService
-
 
 // CreateFuelCustomerContract 创建FuelCustomerContract
 // @Tags 航油系统
@@ -30,7 +29,7 @@ func (fuelCustomerContractApi *FuelCustomerContractApi) CreateFuelCustomerContra
 	var fuelCustomerContract autocode.FuelCustomerContract
 	_ = c.ShouldBindJSON(&fuelCustomerContract)
 	if err := fuelCustomerContractService.CreateFuelCustomerContract(fuelCustomerContract); err != nil {
-        global.GVA_LOG.Error("创建失败!", zap.Any("err", err))
+		global.GVA_LOG.Error("创建失败!", zap.Any("err", err))
 		response.FailWithMessage("创建失败", c)
 	} else {
 		response.OkWithMessage("创建成功", c)
@@ -50,7 +49,7 @@ func (fuelCustomerContractApi *FuelCustomerContractApi) DeleteFuelCustomerContra
 	var fuelCustomerContract autocode.FuelCustomerContract
 	_ = c.ShouldBindJSON(&fuelCustomerContract)
 	if err := fuelCustomerContractService.DeleteFuelCustomerContract(fuelCustomerContract); err != nil {
-        global.GVA_LOG.Error("删除失败!", zap.Any("err", err))
+		global.GVA_LOG.Error("删除失败!", zap.Any("err", err))
 		response.FailWithMessage("删除失败", c)
 	} else {
 		response.OkWithMessage("删除成功", c)
@@ -68,9 +67,9 @@ func (fuelCustomerContractApi *FuelCustomerContractApi) DeleteFuelCustomerContra
 // @Router /fuelCustomerContract/deleteFuelCustomerContractByIds [delete]
 func (fuelCustomerContractApi *FuelCustomerContractApi) DeleteFuelCustomerContractByIds(c *gin.Context) {
 	var IDS request.IdsReq
-    _ = c.ShouldBindJSON(&IDS)
+	_ = c.ShouldBindJSON(&IDS)
 	if err := fuelCustomerContractService.DeleteFuelCustomerContractByIds(IDS); err != nil {
-        global.GVA_LOG.Error("批量删除失败!", zap.Any("err", err))
+		global.GVA_LOG.Error("批量删除失败!", zap.Any("err", err))
 		response.FailWithMessage("批量删除失败", c)
 	} else {
 		response.OkWithMessage("批量删除成功", c)
@@ -90,7 +89,7 @@ func (fuelCustomerContractApi *FuelCustomerContractApi) UpdateFuelCustomerContra
 	var fuelCustomerContract autocode.FuelCustomerContract
 	_ = c.ShouldBindJSON(&fuelCustomerContract)
 	if err := fuelCustomerContractService.UpdateFuelCustomerContract(fuelCustomerContract); err != nil {
-        global.GVA_LOG.Error("更新失败!", zap.Any("err", err))
+		global.GVA_LOG.Error("更新失败!", zap.Any("err", err))
 		response.FailWithMessage("更新失败", c)
 	} else {
 		response.OkWithMessage("更新成功", c)
@@ -110,7 +109,7 @@ func (fuelCustomerContractApi *FuelCustomerContractApi) FindFuelCustomerContract
 	var fuelCustomerContract autocode.FuelCustomerContract
 	_ = c.ShouldBindQuery(&fuelCustomerContract)
 	if err, refuelCustomerContract := fuelCustomerContractService.GetFuelCustomerContract(fuelCustomerContract.ID); err != nil {
-        global.GVA_LOG.Error("查询失败!", zap.Any("err", err))
+		global.GVA_LOG.Error("查询失败!", zap.Any("err", err))
 		response.FailWithMessage("查询失败", c)
 	} else {
 		response.OkWithData(gin.H{"refuelCustomerContract": refuelCustomerContract}, c)
@@ -130,14 +129,14 @@ func (fuelCustomerContractApi *FuelCustomerContractApi) GetFuelCustomerContractL
 	var pageInfo autocodeReq.FuelCustomerContractSearch
 	_ = c.ShouldBindQuery(&pageInfo)
 	if err, list, total := fuelCustomerContractService.GetFuelCustomerContractInfoList(pageInfo); err != nil {
-	    global.GVA_LOG.Error("获取失败!", zap.Any("err", err))
-        response.FailWithMessage("获取失败", c)
-    } else {
-        response.OkWithDetailed(response.PageResult{
-            List:     list,
-            Total:    total,
-            Page:     pageInfo.Page,
-            PageSize: pageInfo.PageSize,
-        }, "获取成功", c)
-    }
+		global.GVA_LOG.Error("获取失败!", zap.Any("err", err))
+		response.FailWithMessage("获取失败", c)
+	} else {
+		response.OkWithDetailed(response.PageResult{
+			List:     list,
+			Total:    total,
+			Page:     pageInfo.Page,
+			PageSize: pageInfo.PageSize,
+		}, "获取成功", c)
+	}
 }

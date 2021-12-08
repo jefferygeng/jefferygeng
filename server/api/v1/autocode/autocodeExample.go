@@ -2,12 +2,12 @@ package autocode
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jefferygeng/gin-vue-admin/server/global"
-	"github.com/jefferygeng/gin-vue-admin/server/model/autocode"
-	autocodeReq "github.com/jefferygeng/gin-vue-admin/server/model/autocode/request"
-	"github.com/jefferygeng/gin-vue-admin/server/model/common/response"
-	"github.com/jefferygeng/gin-vue-admin/server/service"
-	"github.com/jefferygeng/gin-vue-admin/server/utils"
+	"github.com/jefferygeng/yj/server/global"
+	"github.com/jefferygeng/yj/server/model/autocode"
+	autocodeReq "github.com/jefferygeng/yj/server/model/autocode/request"
+	"github.com/jefferygeng/yj/server/model/common/response"
+	"github.com/jefferygeng/yj/server/service"
+	"github.com/jefferygeng/yj/server/utils"
 	"go.uber.org/zap"
 )
 

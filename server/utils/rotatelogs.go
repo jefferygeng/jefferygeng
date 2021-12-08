@@ -1,10 +1,11 @@
 package utils
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"os"
+
+	"github.com/jefferygeng/yj/server/global"
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap/zapcore"
-	"os"
 )
 
 //@author: [SliverHorn](https://github.com/SliverHorn)

@@ -1,9 +1,9 @@
 package autocode
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/api/v1"
-	"github.com/flipped-aurora/gin-vue-admin/server/middleware"
+	v1 "github.com/flipped-aurora/gin-vue-admin/server/api/v1"
 	"github.com/gin-gonic/gin"
+	"github.com/jefferygeng/yj/server/middleware"
 )
 
 type ZnFlightRouter struct {

@@ -1,8 +1,8 @@
 package source
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
 	"github.com/gookit/color"
+	"github.com/jefferygeng/yj/server/global"
 	"gorm.io/gorm"
 )
 

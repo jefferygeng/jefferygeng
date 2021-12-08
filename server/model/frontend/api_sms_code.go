@@ -1,6 +1,6 @@
 package frontend
 
-import "github.com/flipped-aurora/gin-vue-admin/server/global"
+import "github.com/jefferygeng/yj/server/global"
 
 //验证码表结构
 type SmsCode struct {

@@ -2,27 +2,25 @@
 package autocode
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/jefferygeng/yj/server/global"
 )
 
 // FuelSupplierContact 结构体
 // 如果含有time.Time 请自行import time包
 type FuelSupplierContact struct {
-      global.GVA_MODEL
-      Truename  string `json:"truename" form:"truename" gorm:"column:truename;comment:姓名;type:varchar(16);"`
-      Job  string `json:"job" form:"job" gorm:"column:job;comment:职位/负责事务;type:varchar(50);"`
-      Mobile  string `json:"mobile" form:"mobile" gorm:"column:mobile;comment:手机;type:varchar(30);"`
-      Tel  string `json:"tel" form:"tel" gorm:"column:tel;comment:座机;type:varchar(30);"`
-      Email  string `json:"email" form:"email" gorm:"column:email;comment:邮箱;type:varchar(60);"`
-      BindId  *int `json:"bind_id" form:"bind_id" gorm:"column:bind_id;comment:绑定的供应商ID;type:bigint"`
-      Supplier Supplier  `gorm:"foreignkey:BindId"`
-
+	global.GVA_MODEL
+	Truename string   `json:"truename" form:"truename" gorm:"column:truename;comment:姓名;type:varchar(16);"`
+	Job      string   `json:"job" form:"job" gorm:"column:job;comment:职位/负责事务;type:varchar(50);"`
+	Mobile   string   `json:"mobile" form:"mobile" gorm:"column:mobile;comment:手机;type:varchar(30);"`
+	Tel      string   `json:"tel" form:"tel" gorm:"column:tel;comment:座机;type:varchar(30);"`
+	Email    string   `json:"email" form:"email" gorm:"column:email;comment:邮箱;type:varchar(60);"`
+	BindId   *int     `json:"bind_id" form:"bind_id" gorm:"column:bind_id;comment:绑定的供应商ID;type:bigint"`
+	Supplier Supplier `gorm:"foreignkey:BindId"`
 }
-
 
 // TableName FuelSupplierContact 表名
 func (FuelSupplierContact) TableName() string {
-  return "fuel_supplier_contact"
+	return "fuel_supplier_contact"
 }
 
 //type Fuelsupplier struct{

@@ -1,6 +1,6 @@
 package frontend
 
-import "github.com/flipped-aurora/gin-vue-admin/server/service"
+import "github.com/jefferygeng/yj/server/service"
 
 type ApiGroup struct {
 	SmsApi

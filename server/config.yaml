@@ -1,4 +1,4 @@
-# github.com/flipped-aurora/gin-vue-admin/server Global Configuration
+# github.com/jefferygeng/yj/server Global Configuration
 
 # jwt configuration
 jwt:
@@ -10,7 +10,7 @@ jwt:
 zap:
   level: 'info'
   format: 'console'
-  prefix: '[github.com/flipped-aurora/gin-vue-admin/server]'
+  prefix: '[github.com/jefferygeng/yj/server]'
   director: 'log'
   show-line: true
   encode-level: 'LowercaseColorLevelEncoder'
@@ -66,7 +66,7 @@ captcha:
   img-height: 80
 
 # mysql connect configuration
-# 未初始化之前请勿手动修改数据库信息！！！如果一定要手动初始化请看（https://www.github.com/flipped-aurora/gin-vue-admin/server.com/docs/first）
+# 未初始化之前请勿手动修改数据库信息！！！如果一定要手动初始化请看（https://www.github.com/jefferygeng/yj/server.com/docs/first）
 mysql:
   path: '39.105.107.184:3306'
   config: 'charset=utf8mb4&parseTime=True&loc=Local'
@@ -125,7 +125,7 @@ tencent-cos:
   secret-id: 'xxxxxxxx'
   secret-key: 'xxxxxxxx'
   base-url: 'https://gin.vue.admin'
-  path-prefix: 'github.com/flipped-aurora/gin-vue-admin/server'
+  path-prefix: 'github.com/jefferygeng/yj/server'
 
 # excel configuration
 excel:

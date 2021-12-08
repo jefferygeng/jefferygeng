@@ -5,7 +5,7 @@ import (
 	dysmsapi20170525 "github.com/alibabacloud-go/dysmsapi-20170525/v2/client"
 	util "github.com/alibabacloud-go/tea-utils/service"
 	"github.com/alibabacloud-go/tea/tea"
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/jefferygeng/yj/server/global"
 	"go.uber.org/zap"
 )
 

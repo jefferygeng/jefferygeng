@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/jefferygeng/yj/server/global"
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/utils"
 )

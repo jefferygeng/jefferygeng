@@ -1,4 +1,4 @@
-module github.com/jefferygeng/gin-vue-admin/server
+module github.com/jefferygeng/yj/server
 
 go 1.16
 

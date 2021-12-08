@@ -1,10 +1,10 @@
 package router
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/router/autocode"
-	"github.com/flipped-aurora/gin-vue-admin/server/router/example"
-	"github.com/flipped-aurora/gin-vue-admin/server/router/frontend"
-	"github.com/flipped-aurora/gin-vue-admin/server/router/system"
+	"github.com/jefferygeng/yj/server/router/autocode"
+	"github.com/jefferygeng/yj/server/router/example"
+	"github.com/jefferygeng/yj/server/router/frontend"
+	"github.com/jefferygeng/yj/server/router/system"
 )
 
 type RouterGroup struct {

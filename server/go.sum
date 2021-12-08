@@ -126,7 +126,7 @@ github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5Kwzbycv
 github.com/fatih/color v1.10.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGEBuJM=
 github.com/fatih/color v1.13.0 h1:8LOYc1KYPPmyKMuN8QV2DNRWNbLo6LZ0iLs8+mlH53w=
 github.com/fatih/color v1.13.0/go.mod h1:kLAiJbzzSOZDVNGyDpeOxJ47H46qBXwg5ILebYFFOfk=
-github.com/flipped-aurora/gin-vue-admin/server v0.0.0-20210823151324-f5410430faf0/go.mod h1:ksHCxOjTTQDk1Y1MrptfG6e9+s3rDJzQXkIZBHl8sws=
+github.com/jefferygeng/yj/server v0.0.0-20210823151324-f5410430faf0/go.mod h1:ksHCxOjTTQDk1Y1MrptfG6e9+s3rDJzQXkIZBHl8sws=
 github.com/flipped-aurora/gva-plugins v0.0.0-20210828060501-fc8b729b9a4a h1:GEU1KU8lvWWwvHNTXaoVxonsp8t120oFQnlpAtGqKpM=
 github.com/flipped-aurora/gva-plugins v0.0.0-20210828060501-fc8b729b9a4a/go.mod h1:/DpDUj/vphN4x3UaTDhTvT6aZaCasfKOGbMgPabwGv0=
 github.com/flipped-aurora/ws v1.0.2/go.mod h1:RdyM2Fnvxx7f7A6WSmU1aAhDrQIAVW7LS/0LsAUE5mE=
