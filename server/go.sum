@@ -126,10 +126,6 @@ github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5Kwzbycv
 github.com/fatih/color v1.10.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGEBuJM=
 github.com/fatih/color v1.13.0 h1:8LOYc1KYPPmyKMuN8QV2DNRWNbLo6LZ0iLs8+mlH53w=
 github.com/fatih/color v1.13.0/go.mod h1:kLAiJbzzSOZDVNGyDpeOxJ47H46qBXwg5ILebYFFOfk=
-github.com/flipped-aurora/gin-vue-admin/server v0.0.0-20210823151324-f5410430faf0 h1:T8SPIiUDG4MCt7V/Ha3RvxXHIDieAdT81BC+0+SrLJc=
-github.com/flipped-aurora/gin-vue-admin/server v0.0.0-20210823151324-f5410430faf0/go.mod h1:ksHCxOjTTQDk1Y1MrptfG6e9+s3rDJzQXkIZBHl8sws=
-github.com/flipped-aurora/gva-plugins v0.0.0-20210828060501-fc8b729b9a4a h1:GEU1KU8lvWWwvHNTXaoVxonsp8t120oFQnlpAtGqKpM=
-github.com/flipped-aurora/gva-plugins v0.0.0-20210828060501-fc8b729b9a4a/go.mod h1:/DpDUj/vphN4x3UaTDhTvT6aZaCasfKOGbMgPabwGv0=
 github.com/flipped-aurora/ws v1.0.2 h1:oEUz7sgrbPENvgli7Q4QpC0NIEbJucgR4yjcDMg/AjY=
 github.com/flipped-aurora/ws v1.0.2/go.mod h1:RdyM2Fnvxx7f7A6WSmU1aAhDrQIAVW7LS/0LsAUE5mE=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
@@ -358,12 +354,7 @@ github.com/jackc/puddle v0.0.0-20190608224051-11cab39313c9/go.mod h1:m4B5Dj62Y0f
 github.com/jackc/puddle v1.1.0/go.mod h1:m4B5Dj62Y0fbyuIc15OsIqK0+JU8nkqQjsgx7dvjSWk=
 github.com/jackc/puddle v1.1.1/go.mod h1:m4B5Dj62Y0fbyuIc15OsIqK0+JU8nkqQjsgx7dvjSWk=
 github.com/jackc/puddle v1.1.3/go.mod h1:m4B5Dj62Y0fbyuIc15OsIqK0+JU8nkqQjsgx7dvjSWk=
-github.com/jefferygeng/gin-swagger v1.0.0 h1:eBYfXHfqp/jFrkij9KiuLAa5z2v3OanipwLC/kzPR8Y=
-github.com/jefferygeng/gin-swagger v1.0.0/go.mod h1:ZUAMsfZDjD2u38JP1GmQ5lfypMJCXh+jf9IvSKgEg7s=
-github.com/jefferygeng/gin-swagger v1.3.0/go.mod h1:oy1BRA6WvgtCp848lhxce7BnWH4C8Bxa0m5SkWx+cS0=
-github.com/jefferygeng/swag v1.0.0 h1:jHGFMI2HeCrPWVQlnKrW40cl4/7gjxRChspwEg1XGmM=
-github.com/jefferygeng/swag v1.0.0/go.mod h1:hM7fW9aWLFDVhvfp3VfLJ2wGJt5uOb48kYGPxcWcIXQ=
-github.com/jefferygeng/yj/server v0.0.0-20210823151324-f5410430faf0/go.mod h1:ksHCxOjTTQDk1Y1MrptfG6e9+s3rDJzQXkIZBHl8sws=
+github.com/jefferygeng/yj/server v1.0.0/go.mod h1:ksHCxOjTTQDk1Y1MrptfG6e9+s3rDJzQXkIZBHl8sws=
 github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869/go.mod h1:cJ6Cj7dQo+O6GJNiMx+Pa94qKj+TG8ONdKHgMNIyyag=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
